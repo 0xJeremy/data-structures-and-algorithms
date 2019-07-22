@@ -1,0 +1,24 @@
+Data Structures:
+	✔ Stack
+	✔ Queue
+	✔ Heap
+		✔ MinHeap
+		✔ MaxHeap
+	✔ Binary Tree (Must fix bugs)
+	- Binary Search Tree
+	✔ AVL Tree
+	- HashTable
+	- Graph
+
+Algorithms:
+	✔ Depth First Search
+	✔ Breath First Search
+	- Dikjstra
+	- Sorting
+		✔ Merge Sort
+		✔ Heap Sort
+		- Quick Sort
+		- Radix Sort
+	- Minimum Spanning Tree (Prim)
+	- Minimum Spanning Tree (Kruskal)
+	✔ Topological Sort
