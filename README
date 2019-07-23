@@ -19,6 +19,9 @@ Algorithms:
 		✔ Heap Sort
 		✔ Quick Sort
 		✔ Radix Sort
+		✔ Insertion Sort
+		- Selection Sort
+		- Bubble Sort
 	- Minimum Spanning Tree (Prim)
 	- Minimum Spanning Tree (Kruskal)
 	✔ Topological Sort
