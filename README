@@ -17,8 +17,9 @@ Algorithms:
 	- Sorting
 		✔ Merge Sort
 		✔ Heap Sort
-		- Quick Sort
+		✔ Quick Sort
 		- Radix Sort
 	- Minimum Spanning Tree (Prim)
 	- Minimum Spanning Tree (Kruskal)
 	✔ Topological Sort
+	- Binary Search
