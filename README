@@ -20,9 +20,15 @@ Algorithms:
 		✔ Quick Sort
 		✔ Radix Sort
 		✔ Insertion Sort
-		- Selection Sort
-		- Bubble Sort
+		✔ Selection Sort
+		✔ Bubble Sort
 	- Minimum Spanning Tree (Prim)
 	- Minimum Spanning Tree (Kruskal)
 	✔ Topological Sort
 	✔ Binary Search
+	✔ Longest Common Subsequence
+	- Longest Increasing Subsequence
+	- Minimum Subset Sum Partition
+	✔ Subset Sum
+
+Tested with Python3.
