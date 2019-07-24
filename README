@@ -30,5 +30,6 @@ Algorithms:
 	- Longest Increasing Subsequence
 	- Minimum Subset Sum Partition
 	✔ Subset Sum
+	✔ Knapsack Problem
 
 Tested with Python3.
