@@ -20,10 +20,12 @@ class Queue():
 	def popFront(self):
 		return self.data.pop(0) if len(self.data) else None
 
+	def map(self, function):
+		for item in self.data:
+			function(item)
+
+	def find(self, item):
+		return item in self.data
+
 	def __eq__(self, other):
-		if len(self.data) != len(other.data):
-			return False
-		for i in range(len(self.data)):
-			if self.data[i] != other.data[i]:
-				return False
-		return True
+		return self.data == other.data

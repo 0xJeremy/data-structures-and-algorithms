@@ -7,8 +7,16 @@ Data Structures:
 	✔ Binary Tree (Must fix bugs)
 	- Binary Search Tree
 	✔ AVL Tree
-	- HashTable
+	✔ HashTable
 	- Graph
+
+	#TODO: Add data structure functionality
+	Minimum Supported Operations (Where Applicable):
+	- Insert
+	- Remove
+	- Find
+	- Empty
+	- Map
 
 Algorithms:
 	✔ Depth First Search
