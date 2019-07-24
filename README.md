@@ -9,7 +9,7 @@
 - [ ] Binary Search Tree
 - [x] AVL Tree
 - [x] HashTable
-- [ ] Graph
+- [x] Graph
 
 #### TODO: Add data structure functionality
 Minimum Supported Operations (Where Applicable):
@@ -24,7 +24,7 @@ Minimum Supported Operations (Where Applicable):
 - [x] Depth First Search
 - [x] Breath First Search
 - [ ] Dikjstra
-- [ ] Sorting
+- [x] Sorting
 	- [x] Merge Sort
 	- [x] Heap Sort
 	- [x] Quick Sort
