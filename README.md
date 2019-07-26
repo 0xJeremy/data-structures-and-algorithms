@@ -3,9 +3,9 @@
 - [ ] "Linear" Structures
 	- [x] Stack
 	- [x] Queue
-	- [ ] Priority Queue
-		- Simple [O(n) delete]
-		- Adv [w/ Binary Heap. O(nLogn) operations]
+	- [x] Priority Queue
+		- [x] Simple [O(n) delete]
+		- [x] Adv [w/ Binary Heap. O(nLogn) operations]
 - [x] Heap
 	- [x] MinHeap
 	- [x] MaxHeap
@@ -23,11 +23,11 @@
 
 #### TODO: Add data structure functionality
 Minimum Supported Operations (Where Applicable):
-	- [ ] Insert
-	- [ ] Remove
-	- [ ] Find
-	- [ ] Empty
-	- [ ] Map
+- [ ] Insert
+- [ ] Remove
+- [ ] Find
+- [ ] Empty
+- [ ] Map
 
 ## Algorithms
 
